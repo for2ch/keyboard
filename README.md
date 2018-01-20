@@ -79,7 +79,25 @@ A: Кейкапы.
 * Blank, пустые капы без легенд. Еще что-то надо про них пояснять?
 
 #### Q: А мне вот нужна механика как на ноутбуке....
-A: Вот список всех профилей ![профили](https://i.imgur.com/aF0WR9C.jpg) . Видишь его? Забудь. Ничего, кроме Cherry, OEM, SA, DSA, Low почти нигде не юзается. А лоупрофильные клавы есть у Havit, Dareu, Tesoro с Kailh Low Profile; Ducky Blade, Vortex Race 3 с CherryMX Low Profile. Лоупрофиль черри появились недавно, к слову, вот на почитать https://www.cherrymx.de/low-profile-rgb.html .
+A: Вот список всех профилей, если нужного здесь нет, то забудь.
+![профили](https://i.imgur.com/aF0WR9C.jpg)
+Ничего, кроме
+* Cherry
+* OEM
+* SA
+* DSA
+* Low
+
+почти нигде не юзается. А лоупрофильные клавы есть
+* на Kailh Low Profile
+  * Havit
+  * Dareu
+  * Tesoro
+* CherryMX Low Profile
+  * Ducky Blade
+  * Vortex Race 3
+
+Лоупрофиль черри появились недавно, к слову, вот на почитать https://www.cherrymx.de/low-profile-rgb.html.
 
 #### Q: Где купить кейкапы?
 A: Aliexpress.com, amazon.com, ebay.com, taobao.com, mechanicalkeyboards.com, massdrop.com, wasdkeyboards.com, pimpmykeyboard.com, geekkeys.com, geekhack.org, originativeco.com, keypop.net, maxkeyboard.com, elitekeyboards.com, en.zfrontier.com, pheilcia.com
